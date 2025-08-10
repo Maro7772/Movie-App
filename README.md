@@ -33,7 +33,7 @@ This project was bootstrapped using **Create React App** (or **Vite**, specify w
 
 ### Home Page
 - Search bar to type a movie name.
-- On search, fetch movie data from a public API (e.g., [OMDb API](http://www.omdbapi.com/) or [The Movie Database API](https://www.themoviedb.org/)).
+- On search, fetch movie data from a public API [OMDb API](http://www.omdbapi.com/).
 - Display search results as a list of movie cards with poster, title, and year.
 
 ### Movie Details Page
@@ -57,15 +57,11 @@ This project was bootstrapped using **Create React App** (or **Vite**, specify w
 
 ## Styling
 
-- Basic styling applied using CSS (or Bootstrap / TailwindCSS if you used either).
+- Basic styling applied using TailwindCSS 
 
 ---
 
-## Bonus Features (Optional)
+## Bonus Features
 - Favorites feature implemented using `useContext` or localStorage.
 - Loading spinner displayed during API calls.
 - Basic error handling for failed API requests.
-
----
-
-## How to Run Locally
